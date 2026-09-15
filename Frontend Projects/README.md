@@ -1,7 +1,7 @@
 # Front-end Projects from Roadmap.sh
 
-This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh) front-end developer path.
+This folder contains front-end projects.
 
 ## Projects List
 
-[Single-Page CV](./01-single-page-cv)
+[Single-Page CV](./01-single-page-cv)   
