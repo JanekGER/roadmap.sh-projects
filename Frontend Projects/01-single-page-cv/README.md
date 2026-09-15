@@ -6,4 +6,4 @@ https://roadmap.sh/projects/single-page-cv
 
 ## The Result
 
-![Single Page CV Screenshot](screenshot.png)
+![Single Page CV Screenshot](preview.png)
