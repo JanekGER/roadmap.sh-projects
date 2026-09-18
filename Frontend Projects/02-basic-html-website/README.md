@@ -6,7 +6,7 @@ https://roadmap.sh/projects/basic-html-website
 
 ## The Result
 ### Homepage
-![Homepahe screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/Home.png)
+![Homepahe screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/index.png)
 
 ### Projects page
 ![Projects page screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/projects.png)
@@ -17,7 +17,12 @@ https://roadmap.sh/projects/basic-html-website
 ### articles page
 ![articles screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/articles.png)
 
-## Ressources
+## The Result after styling
+### Homepage
+![Homepahe screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/index2.png)
 
-#### Font I importet 
- - https://fonts.google.com/selection/embed
+## Projects page
+![Homepahe screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/projects2.png)
+
+## Resourcess 
+**Font:** https://fonts.google.com/ (it's called "Chewy")
