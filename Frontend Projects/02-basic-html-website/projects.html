@@ -13,12 +13,19 @@
     <meta property="og:title" content="Janek - Frontend Developer projects">
     <meta property="og:description" content="My Projects">
     <meta property="og:type" content="website">
+
+    <!-- link stylesheet -->
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/projects.css">
 </head>
+
+
+
 <body>
-    <header>
+    <header class="header">
         <p>Janek</p>
         <nav>
-            <a href="index.html">Home</a>
+            <a href="index.html">Home</a> 
             <a href="projects.html">Projects</a>
             <a href="articles.html">Articles</a>
             <a href="contact.html">Contact</a>
@@ -26,34 +33,31 @@
     </header>
 
     <main>
-        <h1>My Projects</h1>
+        <section class="hero">
+            <h1>My Projects</h1>
+            <p>The projects I worked on</p>
+        </section>
         
-        <section>
-            <article>
+        <section class="project-grid">
+            <article class="project-card">
                 <h2>My Portfolio</h2>
                 <p>A simple Portfolio</p>
                 <a href="https://github.com/JanekGER/roadmap.sh-projects/tree/main/Frontend%20Projects/01-single-page-cv" target="_blank" rel="noopener noreferrer">View the Code</a>
             </article>    
-        </section>
 
-        <section>
-            <article>
+            <article class="project-card">
                 <h2>Calculator</h2>
                 <p>A simple Calculator</p>
                 <a href="https://www.online-calculator.com/full-screen-calculator/" target="_blank" rel="noopener noreferrer">Go to Calculator</a>
             </article>
-        </section>
 
-        <section>
-            <article>
+            <article class="project-card">
                 <h2>Quizz App</h2>
                 <p>A simple Quizz App</p>
                 <a href="https://www.w3schools.com/HTML/html_quiz.asp">Go to the Quizz</a>
             </article>
-        </section>
 
-        <section>
-            <article>
+            <article class="project-card">
                 <h2>Countdown Timer</h2>
                 <p>A simple Timer</p>
                 <a href="https://www.timeanddate.de/stoppuhr/eieruhr" target="_blank" rel="noopener noreferrer">Go to the Timer</a>
@@ -61,8 +65,10 @@
         </section>
     </main>    
 
+
+    
     <footer>
-        <p>&copy; all rights reserves 2026</p>
+        <p>&copy; all rights reserved 2026</p>
     </footer>
 </body>
 </html>
