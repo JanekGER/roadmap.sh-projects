@@ -16,3 +16,8 @@ https://roadmap.sh/projects/basic-html-website
 
 ### articles page
 ![articles screenshot](/Frontend%20Projects/02-basic-html-website/screenshots/articles.png)
+
+## Ressources
+
+#### Font I importet 
+ - https://fonts.google.com/selection/embed
