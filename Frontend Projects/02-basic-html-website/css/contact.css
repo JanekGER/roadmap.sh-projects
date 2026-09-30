@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+.main-grid {
+    border-top: 2px solid #000;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+}
+
+.main-grid h2 {
+    font-family: "Chewy";
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+.contact-info {
+    border-right: 1px solid #000;
+    padding-right: 20px;
+}
+
+.contact-form {
+    padding-left: 20px;
+}
